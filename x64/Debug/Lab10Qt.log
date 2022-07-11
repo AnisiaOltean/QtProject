@@ -1,0 +1,4 @@
+﻿  Reading Qt configuration (D:/Qt/6.3.0/msvc2019_64/bin/qmake)
+  GUI.cpp
+D:\Cursuri\Anul I\Sem II\OOP\Proiecte\Lab10Qt\Lab10Qt\CosReadOnly.h(21,31): warning C4100: 'ev': unreferenced formal parameter
+  Lab10Qt.vcxproj -> D:\Cursuri\Anul I\Sem II\OOP\Proiecte\Lab10Qt\x64\Debug\Lab10Qt.exe
